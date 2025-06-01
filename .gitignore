@@ -1,0 +1,11 @@
+# Ignore all CSV files
+*.csv
+# Ignore the data directory
+data/
+.desvenv/
+# Ignore Python cache and VS Code settings
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
+.vscode/
+.env
